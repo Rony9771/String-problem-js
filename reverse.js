@@ -11,7 +11,7 @@ function findReverse (text){
   return reversed;
 }
 
-const sentence = "I am a bad boy"
+const sentence = "I am a good boy"
 const rev = findReverse(sentence);
 console.log(rev);
 
